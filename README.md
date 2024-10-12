@@ -3,8 +3,8 @@
 1. Weather app
 
 <div align="center">
-	<img width = "50%" src="https://github.com/user-attachments/assets/c4f89dd9-0c7b-4aac-b1bb-a16799a4e17b">
-  <img width = "50%" src="https://github.com/user-attachments/assets/909d1e0d-cbcd-45c2-9eb8-68efe8adc492">
+	<img width = "33%" src="https://github.com/user-attachments/assets/c4f89dd9-0c7b-4aac-b1bb-a16799a4e17b">
+         <img width = "33%" src="https://github.com/user-attachments/assets/909d1e0d-cbcd-45c2-9eb8-68efe8adc492">
 </div>
 
 2. Apple Frameworks 
@@ -18,8 +18,8 @@
 3. Barcode Scanner
 
 <div align="center">
-	<img width = "50%" src="https://github.com/user-attachments/assets/19fb5c2a-5158-4266-b9f8-f63a3688e3c9">
-  <img width = "50%" src="https://github.com/user-attachments/assets/22508b89-9213-4d8b-a55e-9e20453508af">
+	<img width = "33%" src="https://github.com/user-attachments/assets/19fb5c2a-5158-4266-b9f8-f63a3688e3c9">
+  <img width = "33%" src="https://github.com/user-attachments/assets/22508b89-9213-4d8b-a55e-9e20453508af">
 </div>
 
 
