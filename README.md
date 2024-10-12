@@ -1,11 +1,15 @@
 # IOS-Learning-Apps to learn SwiftUI
 
+<br />
+
 ## 🚀 Weather app
 
 <div align="center">
 	<img width = "33%" src="https://github.com/user-attachments/assets/c4f89dd9-0c7b-4aac-b1bb-a16799a4e17b">
          <img width = "33%" src="https://github.com/user-attachments/assets/909d1e0d-cbcd-45c2-9eb8-68efe8adc492">
 </div>
+
+<br />
 
 ## 🚀 Apple Frameworks 
 
@@ -14,6 +18,8 @@
   <img width = "33%" src="https://github.com/user-attachments/assets/0a353c6f-a4b6-42ae-b1e1-2ae7765ad8fb">
   <img width = "33%" src="https://github.com/user-attachments/assets/721b12ea-759f-463d-945c-5927bd8b9043">
 </div>
+
+<br />
 
 ## 🚀 Barcode Scanner
 
